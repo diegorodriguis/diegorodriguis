@@ -1,11 +1,11 @@
 ### Olá seja bem vindo ao meu perfil 👋
 
-Novo na area, chega mais, vamos trocar experiencias de Tecnologia!
+Novo na área, chega mais, vamos trocar experiências de Tecnologia!
 
 - 🔭 Hoje trabalho como QA
 - 🌱 Estudando JavaScript e Cypress
 - 💬 Contate-me no e-mail: diego.rodriguestti@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄
 
 <div>
   <a href="https://github.com/diegorodriguis">
@@ -26,7 +26,7 @@ Novo na area, chega mais, vamos trocar experiencias de Tecnologia!
 ##
 
 <div> 
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diego-rodrigues-tti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "mailto:diego.rodriguestti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/_dierodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
